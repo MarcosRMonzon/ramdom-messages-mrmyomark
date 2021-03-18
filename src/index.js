@@ -8,7 +8,8 @@ const messages = [
     'Maty',
     'Lucas',
     'Pablo',
-    'Cecilia'
+    'Cecilia',
+    'Marcela'
 ]
 
 const ramdomMg = () => {

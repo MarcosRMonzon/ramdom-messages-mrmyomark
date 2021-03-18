@@ -14,7 +14,15 @@
   "author": "Marcos Monzón <marcos@rusticit.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "mrmrandom-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcosRMonzon/ramdom-messages-mrmyomark.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MarcosRMonzon/ramdom-messages-mrmyomark/issues"
+  },
+  "homepage": "https://github.com/MarcosRMonzon/ramdom-messages-mrmyomark#readme"
 }
